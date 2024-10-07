@@ -1,0 +1,4 @@
+__pycache__
+.venv
+port_scanner.py
+port_name.txt
